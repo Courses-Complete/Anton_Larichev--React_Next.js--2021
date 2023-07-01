@@ -1,6 +1,6 @@
 import React from "react"
 
-const name = (props): JSX.Element => {
+const name = (): JSX.Element => {
 	return (
 		<div>
 
